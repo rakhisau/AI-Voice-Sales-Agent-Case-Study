@@ -66,7 +66,7 @@ SaaS Sales Automation / CRM
 ![Live Call Screen](screenshots/live-call.png)
 
 ### Live Transcript
-![Live Transcript](screenshots/live-transcript.png)
+![Live Transcript](screenshots/live-call 2.png)
 
 ### Call Result & AI Summary
 ![Call Result](screenshots/call-result.png)
@@ -74,8 +74,6 @@ SaaS Sales Automation / CRM
 ### Call History Dashboard
 ![Call History](screenshots/call-history.png)
 
-### Call Detail
-![Call Detail](screenshots/call-detail.png)
 
 ### Admin Login
 ![Admin Login](screenshots/admin-login.png)
